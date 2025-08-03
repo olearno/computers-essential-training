@@ -9,11 +9,11 @@ This repository is designed to help students gain essential computer knowledge t
 
 The goal is to help students build a better relationship with their computers, making it easier for them to become good programmers in the future.
 
----
-
 ## Disclaimer
 
-This training is meant to inspire and guide you in building essential computer skills. Some commands or steps may not work exactly as shown on your system. Please explore and adapt the instructions as needed to find the right commands and solutions for your computer.
+This training is designed to inspire and guide you as you build essential computer skills. Please note that some commands or steps may vary depending on your system. Feel free to explore, adapt, and experiment with the instructions to find solutions that work best for your setup.
+
+Remember, this resource is just the beginning—keep learning, stay curious, and continue expanding your skills beyond this training!
 
 ---
 
